@@ -1,0 +1,20 @@
+2023-05-02 15:54:52.6964||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-02 15:54:52.7883||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-02 15:54:52.8002||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\Occms 
+2023-05-02 16:03:11.2145||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-02 16:03:11.3510||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-02 16:03:11.3642||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\Occms 
+2023-05-02 16:06:46.0382||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-02 16:06:46.1526||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-02 16:06:46.1657||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\Occms 
+2023-05-02 16:09:56.1339||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-02 16:09:56.2505||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-02 16:09:56.2606||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\Occms 
+2023-05-02 16:59:21.0736|Default|00-4d95d9c2706c1424c5b95784e8c1cd9d-7b2a064bdf5b528e-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-02 17:20:24.5020|Default|00-30d7de99e67bd02c77023b4004f0eb47-9b690fcd2f71b780-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-02 17:20:27.4438|Default|00-cb927a83d55b5f9e5e1587acebc1334d-817f1f00ffd6f5e3-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-02 17:23:45.3517|Default|00-94f5389f55b1eae2ddbd8db3d0f01d4c-8eea67802d9f81f0-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-02 17:25:10.6947|Default|00-48780fb0be42ac8fc3d57dde09c8671c-a0ba4efcac37ead3-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-02 17:25:29.7989|Default|00-f5a78b6cce9c83c30818eda7444463af-225a29bd671038e1-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-02 17:26:02.7351|Default|00-15445b23f48e8f89d210cc2c80bbdbf3-59159d73c2de7c35-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-02 17:26:24.6488|Default|00-260ca7e596e47faf38868ee6cc74bbfc-956bd41056b33ae9-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 

@@ -1,0 +1,13 @@
+2023-05-07 01:37:58.1323||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-07 01:37:58.2377||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-07 01:37:58.2469||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\Occms 
+2023-05-07 13:07:59.7947||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-07 13:07:59.8602||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-07 13:07:59.8602||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\Occms 
+2023-05-07 18:54:15.7604||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-07 18:54:15.9524||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-07 18:54:15.9761||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\Occms 
+2023-05-07 19:33:27.9966|Default|00-e0319e9133120a0f4eb05e112def13f7-43fec76e1c568553-00|3|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|WARN|Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page. 
+2023-05-07 20:02:36.0263||||Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2023-05-07 20:02:36.2507||||Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2023-05-07 20:02:36.2686||||Microsoft.Hosting.Lifetime|INFO|Content root path: D:\internship\งาน\Occms 

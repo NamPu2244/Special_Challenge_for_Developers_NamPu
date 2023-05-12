@@ -1,0 +1,27 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap');
+
+.py-4 {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.footertt {
+    font-size: 28px;
+    font-weight: 600;
+    padding-top: 48px;
+    padding-bottom: 24px;
+    margin-bottom:0;
+}
+
+.footerdc {
+    font-size: 24px;
+    font-weight: lighter;
+    padding-bottom: 24px;
+    margin-bottom:0;
+}
+
+.ssicon {
+    padding-bottom: 48px;
+    padding-left: 48px;
+    padding-right: 48px;
+}

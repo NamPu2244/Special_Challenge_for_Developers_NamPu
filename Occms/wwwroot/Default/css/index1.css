@@ -1,0 +1,210 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+
+.header {
+    padding-top: 26rem;
+    padding-bottom: 26rem;
+    text-align: center;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    /*background-color:lightgray;*/
+    background-image: url('/Default/picture/wallpaper/wallpaper.jpg');
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.card-img-top {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.subheader {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.5rem;
+    margin-bottom: 25px;
+    text-shadow: 0px 10px 6px #000000;
+}
+
+#hist {
+    font-family: 'Kanit', sans-serif;
+    color: #212121;
+    font-size: 32px;
+    font-weight: 600;
+    padding-bottom: 24px;
+    margin-bottom: 0;
+}
+
+#histlo{
+    font-size:32px;
+    font-weight:600;
+    padding-bottom:24px;
+    margin-bottom:0;
+}
+
+#histin {
+    font-size: 24px;
+    font-weight: lighter;
+    color: #4D2718;
+    padding-bottom: 48px;
+    margin-bottom: 0;
+}
+
+#sh {
+    text-shadow: 0px 10px 6px #000000;
+}
+
+.heading {
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 3.25rem;
+    margin-bottom: 4rem;
+}
+
+
+#mainin {
+    padding-bottom: 0;
+}
+
+#sec2 {
+    background-color: #fcf0de;
+    padding-top: 48px;
+    padding-bottom:28px;
+    margin-bottom:96px;
+}
+
+#textmain {
+    font-size: 24px;
+    font-weight: lighter;
+    padding-bottom: 48px;
+    margin-bottom: 0;
+    color: #4D2718;
+}
+
+
+
+h2 {
+    font-family: 'Kanit', sans-serif;
+}
+
+
+
+.widget-container {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#mainNav .navbar-brand {
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+    text-transform: uppercase;
+    text-shadow: 0px 8px 5px #000000;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+    font-family: 'Kanit', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+    text-shadow: 0px 8px 5px #000000;
+}
+
+
+@media (min-width: 992px) {
+    #mainNav.navbar-shrink .navbar-brand {
+        font-size: 1.25rem;
+    }
+}
+
+@media (min-width: 992px) {
+    #mainNav.navbar-shrink .navbar-nav .nav-link {
+        font-size: 1.25rem;
+    }
+}
+
+@media (min-width: 992px) {
+    #mainNav .navbar-nav .nav-link {
+        transition: font-size 0.3s ease-in-out;
+    }
+}
+
+.card-text {
+    font-size: 20px;
+    font-weight:lighter;
+}
+
+.card-title {
+    font-family: 'Kanit', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom:0;
+    padding-bottom:24px;
+}
+
+p {
+    font-size: 32px;
+}
+
+.card {
+    max-height: 558px;
+
+}
+
+#card{
+    padding-bottom:48px;
+}
+
+.card-body{
+    padding:24px;
+}
+
+.carousel-control-next {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    width: 15%;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    background: none;
+    border: 0;
+    opacity: 0.5;
+    transition: opacity 0.15s ease;
+}
+
+.carousel-control-prev{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 15%;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    background: none;
+    border: 0;
+    opacity: 0.5;
+    transition: opacity 0.15s ease;
+}
+
